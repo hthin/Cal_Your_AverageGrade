@@ -1,0 +1,4 @@
+            Ogrenci4                  14            Geometri                  70                  65               67,00
+             Ogrenci                  10                Math                  80                  90               86,00
+            Ogrenci3                  13             History                  80                  75               77,00
+            Ogrenci2                  12             Bioloji                  80                  96               89,60
